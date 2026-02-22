@@ -4,10 +4,10 @@ BOT_HANDLE= # eg 'alice.bsky.social'
 BOT_PASSWORD=
 ```
 
-'''shell
+```shell
 lex install app.bsky.feed.post
 lex build
-'''
+```
 
 ## run
 
